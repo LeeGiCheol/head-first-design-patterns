@@ -1,7 +1,7 @@
-package me.gicheol.designpattern.decorator.condiment;
+package me.gicheol.designpattern.decorator.starbuzz.condiment;
 
-import me.gicheol.designpattern.decorator.Beverage;
-import me.gicheol.designpattern.decorator.CondimentDecorator;
+import me.gicheol.designpattern.decorator.starbuzz.Beverage;
+import me.gicheol.designpattern.decorator.starbuzz.CondimentDecorator;
 
 public class Mocha extends CondimentDecorator {
 

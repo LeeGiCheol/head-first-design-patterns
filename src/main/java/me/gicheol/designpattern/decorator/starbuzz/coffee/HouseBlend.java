@@ -1,6 +1,6 @@
-package me.gicheol.designpattern.decorator.coffee;
+package me.gicheol.designpattern.decorator.starbuzz.coffee;
 
-import me.gicheol.designpattern.decorator.Beverage;
+import me.gicheol.designpattern.decorator.starbuzz.Beverage;
 
 public class HouseBlend extends Beverage {
 

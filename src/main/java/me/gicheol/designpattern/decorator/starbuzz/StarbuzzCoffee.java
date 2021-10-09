@@ -1,11 +1,11 @@
-package me.gicheol.designpattern.decorator;
+package me.gicheol.designpattern.decorator.starbuzz;
 
-import me.gicheol.designpattern.decorator.coffee.DarkRoast;
-import me.gicheol.designpattern.decorator.coffee.Espresso;
-import me.gicheol.designpattern.decorator.coffee.HouseBlend;
-import me.gicheol.designpattern.decorator.condiment.Mocha;
-import me.gicheol.designpattern.decorator.condiment.Soy;
-import me.gicheol.designpattern.decorator.condiment.Whip;
+import me.gicheol.designpattern.decorator.starbuzz.coffee.DarkRoast;
+import me.gicheol.designpattern.decorator.starbuzz.coffee.Espresso;
+import me.gicheol.designpattern.decorator.starbuzz.coffee.HouseBlend;
+import me.gicheol.designpattern.decorator.starbuzz.condiment.Mocha;
+import me.gicheol.designpattern.decorator.starbuzz.condiment.Soy;
+import me.gicheol.designpattern.decorator.starbuzz.condiment.Whip;
 
 public class StarbuzzCoffee {
 

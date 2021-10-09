@@ -1,4 +1,4 @@
-package me.gicheol.designpattern.decorator;
+package me.gicheol.designpattern.decorator.starbuzz;
 
 public abstract class Beverage {
 
