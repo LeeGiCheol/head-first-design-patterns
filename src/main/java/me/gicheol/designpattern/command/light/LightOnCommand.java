@@ -1,5 +1,7 @@
 package me.gicheol.designpattern.command.light;
 
+import me.gicheol.designpattern.command.Command;
+
 public class LightOnCommand implements Command {
 
     Light light;
