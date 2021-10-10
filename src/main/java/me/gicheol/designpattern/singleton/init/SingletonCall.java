@@ -1,4 +1,4 @@
-package me.gicheol.designpattern.singleton.classic;
+package me.gicheol.designpattern.singleton.init;
 
 
 public class SingletonCall {
