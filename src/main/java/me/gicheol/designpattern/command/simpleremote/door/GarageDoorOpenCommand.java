@@ -1,6 +1,6 @@
-package me.gicheol.designpattern.command.door;
+package me.gicheol.designpattern.command.simpleremote.door;
 
-import me.gicheol.designpattern.command.Command;
+import me.gicheol.designpattern.command.simpleremote.Command;
 
 public class GarageDoorOpenCommand implements Command {
 

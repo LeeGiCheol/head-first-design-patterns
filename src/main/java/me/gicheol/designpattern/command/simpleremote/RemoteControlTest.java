@@ -1,9 +1,9 @@
-package me.gicheol.designpattern.command;
+package me.gicheol.designpattern.command.simpleremote;
 
-import me.gicheol.designpattern.command.door.GarageDoor;
-import me.gicheol.designpattern.command.door.GarageDoorOpenCommand;
-import me.gicheol.designpattern.command.light.Light;
-import me.gicheol.designpattern.command.light.LightOnCommand;
+import me.gicheol.designpattern.command.simpleremote.door.GarageDoor;
+import me.gicheol.designpattern.command.simpleremote.door.GarageDoorOpenCommand;
+import me.gicheol.designpattern.command.simpleremote.light.Light;
+import me.gicheol.designpattern.command.simpleremote.light.LightOnCommand;
 
 public class RemoteControlTest {
 

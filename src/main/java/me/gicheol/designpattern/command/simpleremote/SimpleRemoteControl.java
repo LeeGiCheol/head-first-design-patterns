@@ -1,4 +1,4 @@
-package me.gicheol.designpattern.command;
+package me.gicheol.designpattern.command.simpleremote;
 
 public class SimpleRemoteControl {
 

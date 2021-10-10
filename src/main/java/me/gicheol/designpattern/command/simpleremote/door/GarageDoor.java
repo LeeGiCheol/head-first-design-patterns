@@ -1,4 +1,4 @@
-package me.gicheol.designpattern.command.door;
+package me.gicheol.designpattern.command.simpleremote.door;
 
 public class GarageDoor {
 
